@@ -1,0 +1,3 @@
+# Hangman
+I andra classen där jag har mina ord som ska gissas, använder jag math.random för att "lotta" ut vvilken ord som ska anvädas i sjölva spelet.
+sedan eftersom att stringen är privat använder jag get och set för att kalla på den i main classen.
